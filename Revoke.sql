@@ -1,0 +1,1 @@
+REVOKE UPDATE ON TABLE books FROM martin;
